@@ -1,0 +1,25 @@
+{
+  "name": "fake-users-array-api",
+  "version": "1.0.2",
+  "description": "api for fake-user-array",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "api",
+    "users"
+  ],
+  "author": "francesco coniglione",
+  "license": "MIT",
+  "dependencies": {
+    "fake-users-array": "^1.0.4",
+    "supertest": "^3.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
