@@ -1,6 +1,6 @@
 {
   "name": "fake-users-array-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "api for fake-user-array",
   "main": "app.js",
   "scripts": {
@@ -21,5 +21,13 @@
   },
   "directories": {
     "test": "test"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frank-345/fake-users-array-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Frank-345/fake-users-array-api/issues"
+  },
+  "homepage": "https://github.com/Frank-345/fake-users-array-api#readme"
 }
