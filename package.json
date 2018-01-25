@@ -4,7 +4,8 @@
   "description": "api for fake-user-array",
   "main": "app.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node app"
   },
   "keywords": [
     "api",
@@ -20,8 +21,7 @@
     "mocha": "^4.1.0",
   },
   "directories": {
-    "test": "test",
-    "start": "node app"
+    "test": "test"
   },
   "repository": {
     "type": "git",
