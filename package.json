@@ -17,10 +17,11 @@
     "supertest": "^3.0.0"
   },
   "devDependencies": {
-    "mocha": "^4.1.0"
+    "mocha": "^4.1.0",
   },
   "directories": {
-    "test": "test"
+    "test": "test",
+    "start": "node app"
   },
   "repository": {
     "type": "git",
