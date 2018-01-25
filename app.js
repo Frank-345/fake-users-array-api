@@ -59,8 +59,8 @@ app.put('/users', function(req,res) {
 
 })
 
-var port = process.env.PORT ||8000
+var port = process.env.PORT || 8000
 app.listen(port, function() {
-console.log("App is running on port " + port);
+  console.log("App is running on port " + port);
 });
 module.exports = app;
