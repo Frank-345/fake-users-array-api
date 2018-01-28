@@ -1,6 +1,6 @@
 {
   "name": "fake-users-array-api",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "api for fake-user-array",
   "main": "app.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "api",
     "users"
   ],
-  "author": "francesco coniglione",
+  "author": "francesco coniglione <francescoconiglione4@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.2",
